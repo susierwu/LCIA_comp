@@ -1,6 +1,6 @@
-# JIE_LCIA_comp
+# LCIA_comp
 
-This folder contains following sub-folders to reproduce the study: 
+To compare CFs applied to a same EF in different LCA software (SimaPro, openLCA, BW2, as well as the LCIA method official documents). This folder contains following sub-folders: 
 
 1. Data_rawCFs: containing raw data from the four LCIA sources (three software-LCIA method combination and raw-CML/raw-RIVM) used in the analysis - corresponding to section 2.1 of the manusript
 2. Module: containing functions used for the consistency analysis - corresponding to section 2.2 of the manusript
